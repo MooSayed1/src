@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[6538],{86538:function(e){e.exports=[]}}]);

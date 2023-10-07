@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[6212],{26212:function(a){a.exports=JSON.parse('[{"country":"GI","name":"Gibraltar","lat":"36.14474","lng":"-5.35257"}]')}}]);

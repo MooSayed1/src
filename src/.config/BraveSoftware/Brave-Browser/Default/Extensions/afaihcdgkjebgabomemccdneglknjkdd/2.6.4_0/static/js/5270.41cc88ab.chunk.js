@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[5270],{85270:function(a){a.exports=JSON.parse('[{"country":"WF","name":"Leava","lat":"-14.29333","lng":"-178.15833"},{"country":"WF","name":"Mata-Utu","lat":"-13.28163","lng":"-176.17453"},{"country":"WF","name":"Alo","lat":"-14.31096","lng":"-178.11094"}]')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[48],{70048:function(t){t.exports=JSON.parse('[{"country":"PN","name":"Adamstown","lat":"-25.06597","lng":"-130.10147"}]')}}]);

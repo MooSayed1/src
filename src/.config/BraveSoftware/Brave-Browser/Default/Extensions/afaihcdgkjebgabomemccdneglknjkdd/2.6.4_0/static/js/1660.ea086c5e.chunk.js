@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[1660],{71660:function(a){a.exports=JSON.parse('[{"country":"EH","name":"Laayoune Plage","lat":"27.09611","lng":"-13.41583"},{"country":"EH","name":"Laayoune","lat":"27.1418","lng":"-13.18797"},{"country":"EH","name":"Dakhla","lat":"23.68477","lng":"-15.95798"}]')}}]);

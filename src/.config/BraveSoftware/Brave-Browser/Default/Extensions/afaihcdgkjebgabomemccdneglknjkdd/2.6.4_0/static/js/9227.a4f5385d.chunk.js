@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[9227],{9227:function(t){t.exports=JSON.parse('[{"country":"VA","name":"Vatican City","lat":"41.90268","lng":"12.45414"}]')}}]);

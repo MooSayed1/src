@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[9535],{89535:function(a){a.exports=JSON.parse('[{"country":"MP","name":"San Jose Village","lat":"14.96823","lng":"145.61998"},{"country":"MP","name":"Saipan","lat":"15.21233","lng":"145.7545"}]')}}]);

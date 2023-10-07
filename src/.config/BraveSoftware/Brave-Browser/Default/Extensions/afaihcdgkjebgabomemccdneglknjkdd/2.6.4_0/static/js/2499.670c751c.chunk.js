@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[2499],{92499:function(a){a.exports=JSON.parse('[{"country":"VG","name":"Road Town","lat":"18.42693","lng":"-64.62079"}]')}}]);

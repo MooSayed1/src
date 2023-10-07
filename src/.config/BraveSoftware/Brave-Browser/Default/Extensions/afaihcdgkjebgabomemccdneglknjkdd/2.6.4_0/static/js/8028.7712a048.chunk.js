@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[8028],{98028:function(n){n.exports=JSON.parse('[{"country":"TK","name":"Fale old settlement","lat":"-9.38516","lng":"-171.24675"},{"country":"TK","name":"Nukunonu","lat":"-9.20045","lng":"-171.84804"},{"country":"TK","name":"Atafu Village","lat":"-8.54212","lng":"-172.51591"}]')}}]);

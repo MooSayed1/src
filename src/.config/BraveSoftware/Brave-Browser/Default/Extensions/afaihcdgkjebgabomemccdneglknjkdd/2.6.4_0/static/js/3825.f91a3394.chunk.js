@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[3825],{53825:function(e){e.exports=JSON.parse('[{"country":"NU","name":"Alofi","lat":"-19.05451","lng":"-169.91768"}]')}}]);

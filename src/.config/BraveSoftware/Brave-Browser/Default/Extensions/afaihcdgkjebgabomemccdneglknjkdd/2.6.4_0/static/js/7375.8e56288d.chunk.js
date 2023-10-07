@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[7375],{17375:function(t){t.exports=JSON.parse('[{"country":"MS","name":"Saint Peters","lat":"16.7727","lng":"-62.21729"},{"country":"MS","name":"Plymouth","lat":"16.70555","lng":"-62.21292"},{"country":"MS","name":"Brades","lat":"16.79183","lng":"-62.21058"}]')}}]);
