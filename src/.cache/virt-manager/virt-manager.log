@@ -20923,3 +20923,20 @@ qemu:///system
 [Sun, 08 Oct 2023 00:19:42 virt-manager 1425] DEBUG (connection:706) node device lifecycle event: nodedev=usb_4_2 state=VIR_NODE_DEVICE_EVENT_DELETED reason=0
 [Sun, 08 Oct 2023 00:19:42 virt-manager 1425] DEBUG (connection:1046) nodedev=usb_4_2 removed
 [Sun, 08 Oct 2023 00:19:42 virt-manager 1425] DEBUG (connection:1046) nodedev=usb_4_2_1_0 removed
+[Sun, 08 Oct 2023 00:58:56 virt-manager 1425] DEBUG (connection:706) node device lifecycle event: nodedev=usb_4_2 state=VIR_NODE_DEVICE_EVENT_CREATED reason=0
+[Sun, 08 Oct 2023 00:58:56 virt-manager 1425] DEBUG (connection:706) node device lifecycle event: nodedev=usb_4_2_1_0 state=VIR_NODE_DEVICE_EVENT_CREATED reason=0
+[Sun, 08 Oct 2023 00:58:56 virt-manager 1425] DEBUG (connection:706) node device lifecycle event: nodedev=scsi_host1 state=VIR_NODE_DEVICE_EVENT_CREATED reason=0
+[Sun, 08 Oct 2023 00:58:56 virt-manager 1425] DEBUG (connection:1065) New nodedev=usb_4_2_1_0 requested, but it's already tracked.
+[Sun, 08 Oct 2023 00:58:57 virt-manager 1425] DEBUG (connection:706) node device lifecycle event: nodedev=scsi_target1_0_0 state=VIR_NODE_DEVICE_EVENT_CREATED reason=0
+[Sun, 08 Oct 2023 00:58:57 virt-manager 1425] DEBUG (connection:706) node device lifecycle event: nodedev=scsi_1_0_0_0 state=VIR_NODE_DEVICE_EVENT_CREATED reason=0
+[Sun, 08 Oct 2023 00:58:57 virt-manager 1425] DEBUG (connection:706) node device lifecycle event: nodedev=scsi_generic_sg0 state=VIR_NODE_DEVICE_EVENT_CREATED reason=0
+[Sun, 08 Oct 2023 00:58:57 virt-manager 1425] DEBUG (connection:1065) New nodedev=scsi_1_0_0_0 requested, but it's already tracked.
+[Sun, 08 Oct 2023 00:58:57 virt-manager 1425] DEBUG (connection:706) node device lifecycle event: nodedev=block_sda_SanDisk_Portable_SSD_323330393057343031313232_0_0 state=VIR_NODE_DEVICE_EVENT_CREATED reason=0
+[Sun, 08 Oct 2023 00:59:59 virt-manager 1425] DEBUG (vmmenu:255) Shutting down vm 'linux2022'
+[Sun, 08 Oct 2023 00:59:59 virt-manager 1425] DEBUG (connection:646) domain agent lifecycle event: domain=linux2022 state=VIR_CONNECT_DOMAIN_EVENT_AGENT_LIFECYCLE_STATE_DISCONNECTED reason=2
+[Sun, 08 Oct 2023 00:59:59 virt-manager 1425] DEBUG (connection:631) domain lifecycle event: domain=linux2022 state=VIR_DOMAIN_EVENT_SHUTDOWN reason=VIR_DOMAIN_EVENT_SHUTDOWN_GUEST
+[Sun, 08 Oct 2023 01:00:00 virt-manager 1425] DEBUG (connection:706) node device lifecycle event: nodedev=net_vnet1_fe_54_00_ef_c2_7d state=VIR_NODE_DEVICE_EVENT_DELETED reason=0
+[Sun, 08 Oct 2023 01:00:00 virt-manager 1425] DEBUG (connection:1046) nodedev=net_vnet1_fe_54_00_ef_c2_7d removed
+[Sun, 08 Oct 2023 01:00:00 virt-manager 1425] DEBUG (console:592) Viewer object cleaned up
+[Sun, 08 Oct 2023 01:00:00 virt-manager 1425] DEBUG (console:848) Viewer disconnected cb
+[Sun, 08 Oct 2023 01:00:00 virt-manager 1425] DEBUG (connection:631) domain lifecycle event: domain=linux2022 state=VIR_DOMAIN_EVENT_STOPPED reason=VIR_DOMAIN_EVENT_STOPPED_SHUTDOWN
