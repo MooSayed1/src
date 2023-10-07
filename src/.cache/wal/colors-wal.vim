@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/mohamed/Pictures/Wallpaper/035.jpg"
+let background = "#153739"
+let foreground = "#d0c5b8"
+let cursor     = "#d0c5b8"
+
+" Colors
+let color0  = "#153739"
+let color1  = "#738877"
+let color2  = "#918E79"
+let color3  = "#AC947A"
+let color4  = "#E08F6D"
+let color5  = "#729481"
+let color6  = "#A99D83"
+let color7  = "#d0c5b8"
+let color8  = "#918980"
+let color9  = "#738877"
+let color10 = "#918E79"
+let color11 = "#AC947A"
+let color12 = "#E08F6D"
+let color13 = "#729481"
+let color14 = "#A99D83"
+let color15 = "#d0c5b8"

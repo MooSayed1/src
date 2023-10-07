@@ -1,0 +1,21 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+2559x1599 screen: Height=1550
+2559x1599 screen: Width=1263
+2559x1599 screen: XPosition=1283
+2559x1599 screen: YPosition=12
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAAFw/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAABLAAAFwwAAAP0A///+AAAEIAAABcMAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP1=eDP1
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/downloadfile-2-١.pdf
+File2[$e]=$HOME/Downloads/1-1.pdf · version 1.pdf
+Name1[$e]=downloadfile-2-١.pdf
+Name2[$e]=1-1.pdf · version 1.pdf

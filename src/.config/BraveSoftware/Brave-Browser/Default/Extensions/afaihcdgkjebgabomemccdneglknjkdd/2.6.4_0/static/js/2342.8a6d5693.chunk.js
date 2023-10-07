@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[2342],{32342:function(e){e.exports=JSON.parse('[{"country":"CC","name":"West Island","lat":"-12.15681","lng":"96.82251"}]')}}]);

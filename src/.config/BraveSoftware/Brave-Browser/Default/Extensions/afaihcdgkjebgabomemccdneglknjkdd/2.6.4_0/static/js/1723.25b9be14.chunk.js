@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[1723],{81723:function(n){n.exports=JSON.parse('[{"country":"TC","name":"Cockburn Town","lat":"21.46122","lng":"-71.14188"}]')}}]);

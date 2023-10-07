@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[9955],{99955:function(e){e.exports=JSON.parse('[{"country":"CX","name":"Flying Fish Cove","lat":"-10.42172","lng":"105.67912"}]')}}]);

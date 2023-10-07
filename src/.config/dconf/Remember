@@ -1,0 +1,7 @@
+Remember to delete the keyboard from dconf before saving
+
+/org/gnome/desktop/input-sources/sources
+
+Remember to set blueberry 
+
+/org/blueberry/use-symbolic-icons to false

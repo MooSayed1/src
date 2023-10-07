@@ -1,0 +1,21 @@
+set $wallpaper /home/mohamed/Pictures/Wallpaper/035.jpg
+
+set $background #153739
+set $foreground #d0c5b8
+
+set $color0 #153739
+set $color1 #738877
+set $color2 #918E79
+set $color3 #AC947A
+set $color4 #E08F6D
+set $color5 #729481
+set $color6 #A99D83
+set $color7 #d0c5b8
+set $color8 #918980
+set $color9 #738877
+set $color10 #918E79
+set $color11 #AC947A
+set $color12 #E08F6D
+set $color13 #729481
+set $color14 #A99D83
+set $color15 #d0c5b8

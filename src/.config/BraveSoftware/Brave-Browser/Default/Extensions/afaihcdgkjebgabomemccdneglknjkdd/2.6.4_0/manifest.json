@@ -1,0 +1,19 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "content_security_policy": "script-src 'self'",
+   "description": "Quran Tab is an Islamic new tab page that will keep you inspired by a verse from the Quran every time you open a new tab.",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnbU3aALijzcgW6OcXYndRrWwF/6GBV4QnzV5AIDU9Y0h3pYKBetvCGwjZTVBY/2DbRtYDoLqcKrciK2oCNDHn7em0PVtU0/yqq13oUDdTPUItFxmgoVbqMspc6KJEL4e81F/6SF1KMfUGHtmQOUtFWqd9EzkhdL6R9zKJJ5IphN+AtGsa+b0ICzwXLce1SQeLVaIWZ7z1oNeVWRw+k/+LF2AZzsnSWVGnHQYq3pDNEvJN7G2G4WH+TGs6aZhilrO8YpRPSSXCMA1fTI+Aek9fWK1G9mDx4sUcwzXAXkjM2kheZOnMZ43kbNWhBLFzzNsRWA7mvsEYCKOfEDneZ7TcwIDAQAB",
+   "manifest_version": 2,
+   "name": "Quran Tab",
+   "permissions": [ "notifications", "alarms", "https://api.alquran.cloud/*", "https://*.islamic.network/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.6.4"
+}

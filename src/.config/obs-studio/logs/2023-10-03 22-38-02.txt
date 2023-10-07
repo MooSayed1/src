@@ -1,0 +1,90 @@
+22:38:02.150: Using EGL/X11
+22:38:02.150: CPU Name: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+22:38:02.150: CPU Speed: 800.611MHz
+22:38:02.150: Physical Cores: 8, Logical Cores: 16
+22:38:02.150: Physical Memory: 31884MB Total, 27284MB Free
+22:38:02.150: Kernel Version: Linux 6.1.55-1-lts
+22:38:02.150: Distribution: ArcoLinux Unknown
+22:38:02.150: Session Type: tty
+22:38:02.150: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+22:38:02.151: Qt Version: 6.5.3 (runtime), 6.5.1 (compiled)
+22:38:02.151: Portable mode: false
+22:38:02.186: OBS 29.1.3-1 (linux)
+22:38:02.186: ---------------------------------
+22:38:02.186: ---------------------------------
+22:38:02.186: audio settings reset:
+22:38:02.186: 	samples per sec: 48000
+22:38:02.186: 	speakers:        2
+22:38:02.186: 	max buffering:   960 milliseconds
+22:38:02.186: 	buffering type:  dynamically increasing
+22:38:02.187: ---------------------------------
+22:38:02.187: Initializing OpenGL...
+22:38:02.224: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics (TGL GT1)
+22:38:02.224: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.2.1-arch1.1, shading language 4.60
+22:38:02.245: ---------------------------------
+22:38:02.245: video settings reset:
+22:38:02.245: 	base resolution:   1920x1080
+22:38:02.245: 	output resolution: 1280x720
+22:38:02.245: 	downscale filter:  Bicubic
+22:38:02.245: 	fps:               30/1
+22:38:02.245: 	format:            NV12
+22:38:02.245: 	YUV mode:          Rec. 709/Partial
+22:38:02.245: NV12 texture support not available
+22:38:02.245: P010 texture support not available
+22:38:02.249: Audio monitoring device:
+22:38:02.249: 	name: Default
+22:38:02.249: 	id: default
+22:38:02.249: ---------------------------------
+22:38:02.254: Failed to load 'en-US' text for module: 'decklink-captions.so'
+22:38:02.258: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+22:38:02.262: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+22:38:02.262: Failed to initialize module 'decklink.so'
+22:38:02.336: [pipewire] No captures available
+22:38:02.346: v4l2loopback not installed, virtual camera disabled
+22:38:02.356: NVENC supported
+22:38:02.356: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+22:38:02.356: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+22:38:02.356: FFmpeg VAAPI H264 encoding not supported
+22:38:02.356: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+22:38:02.356: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+22:38:02.356: FFmpeg VAAPI HEVC encoding not supported
+22:38:02.389: ---------------------------------
+22:38:02.389:   Loaded Modules:
+22:38:02.389:     text-freetype2.so
+22:38:02.389:     rtmp-services.so
+22:38:02.389:     obs-x264.so
+22:38:02.389:     obs-vst.so
+22:38:02.389:     obs-transitions.so
+22:38:02.389:     obs-outputs.so
+22:38:02.389:     obs-libfdk.so
+22:38:02.389:     obs-filters.so
+22:38:02.389:     obs-ffmpeg.so
+22:38:02.389:     linux-v4l2.so
+22:38:02.389:     linux-pulseaudio.so
+22:38:02.389:     linux-pipewire.so
+22:38:02.389:     linux-jack.so
+22:38:02.389:     linux-capture.so
+22:38:02.389:     linux-alsa.so
+22:38:02.389:     image-source.so
+22:38:02.389:     frontend-tools.so
+22:38:02.389:     decklink-output-ui.so
+22:38:02.389:     decklink-captions.so
+22:38:02.389: ---------------------------------
+22:38:02.389: ==== Startup complete ===============================================
+22:38:02.422: All scene data cleared
+22:38:02.422: ------------------------------------------------
+22:38:02.426: pulse-input: Server name: 'pulseaudio 16.1'
+22:38:02.426: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+22:38:02.426: pulse-input: Started recording from 'alsa_output.usb-0c76_USB_PnP_Audio_Device-00.analog-stereo.monitor' (default)
+22:38:02.426: [Loaded global audio device]: 'Desktop Audio'
+22:38:02.429: pulse-input: Server name: 'pulseaudio 16.1'
+22:38:02.429: pulse-input: Audio format: s16le, 44100 Hz, 1 channels
+22:38:02.429: pulse-input: Started recording from 'alsa_input.usb-0c76_USB_PnP_Audio_Device-00.mono-fallback' (default)
+22:38:02.430: [Loaded global audio device]: 'Mic/Aux'
+22:38:02.430: xshm-input: Geometry 2560x1600 @ 0,0
+22:38:02.441: Switched to scene 'Scene'
+22:38:02.441: ------------------------------------------------
+22:38:02.441: Loaded scenes:
+22:38:02.441: - scene 'Scene':
+22:38:02.441:     - source: 'Screen Capture (XSHM)' (xshm_input)
+22:38:02.441: ------------------------------------------------

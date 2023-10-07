@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[9371],{59371:function(e){e.exports=JSON.parse('[{"country":"PM","name":"Saint-Pierre","lat":"46.77914","lng":"-56.1773"},{"country":"PM","name":"Miquelon","lat":"47.0975","lng":"-56.38139"}]')}}]);

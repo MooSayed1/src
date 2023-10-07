@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[8898],{88898:function(a){a.exports=JSON.parse('[{"country":"CK","name":"Avarua","lat":"-21.2075","lng":"-159.77545"}]')}}]);

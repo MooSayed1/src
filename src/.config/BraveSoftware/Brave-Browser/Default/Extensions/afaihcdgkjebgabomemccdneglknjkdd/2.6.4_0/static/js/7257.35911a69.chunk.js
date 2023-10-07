@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[7257],{67257:function(e){e.exports=JSON.parse('[{"country":"GS","name":"Grytviken","lat":"-54.28111","lng":"-36.5092"}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[1300],{61300:function(t){t.exports=JSON.parse('[{"country":"MF","name":"Marigot","lat":"18.06819","lng":"-63.08302"}]')}}]);

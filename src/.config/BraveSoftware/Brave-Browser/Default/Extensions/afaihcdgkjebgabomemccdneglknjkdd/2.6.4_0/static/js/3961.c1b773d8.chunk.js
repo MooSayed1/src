@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquran_tab_project=self.webpackChunkquran_tab_project||[]).push([[3961],{93961:function(a){a.exports=JSON.parse('[{"country":"TF","name":"Port-aux-Fran\xe7ais","lat":"-49.34916","lng":"70.21937"}]')}}]);
