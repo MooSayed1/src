@@ -70,11 +70,11 @@ static const char mic[]         = "[ `amixer sget Capture | tail -n 1 | awk '{pr
 
 static const struct arg args[] = {
         /* function format          argument */
-        { disk_used,            "%s |",                      "/"},
+        { disk_used,            " %s |",                      "/"},
        /* { disk_total,         "/%s |",                    "/"},*/
         { cpu_perc,             " %s%%",             NULL },
         { run_command,          " - %s | ", "sensors | grep \"Core\" | awk \'{print $3}\' | head -n 1| sed \'s/+//\'"},
-        { ram_used,             "ram %s ",              NULL },
+        { ram_used,             " %s ",              NULL },
         { ram_perc,             "(%s%%) | ",             NULL },
         { run_command,          " %s%% | ","xbacklight -get | awk -F\'.\' \'{print $1}\'" },
         { battery_perc,         " %s%% ",             "BAT0" },
@@ -82,5 +82,5 @@ static const struct arg args[] = {
         { run_command,          " %s | ","pamixer --get-volume"},
         //{ run_command,        " %s | ",                mic },
         { keymap,               " %s | ",               NULL },
-        { datetime,             " %s |",          "%a %d %b [%r]" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
+        { datetime,             " %s",          "%a %d %b [%r]" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
 };
